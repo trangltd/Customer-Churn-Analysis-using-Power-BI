@@ -20,8 +20,3 @@ I:
 - Tailored messages: Adjusted my language to match the client's knowledge level.
 - Suggested actions: Gave specific advice on what to do next.
 
-**Get Started:**
-1. Get the project files.
-2. Open the Customer Churn Dashboard.pbix & Customer Risk Analysis Dashboard.pbix in Power BI Desktop.
-3. Connect to your data source.
-4. Start improving customer retention!
